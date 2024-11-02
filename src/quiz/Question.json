@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary purpose of the useState hook in React?",
+        "options": ["SideEffects", "HTTP", "State", "Context"],
+        "correctanswer": "State"
+    },
+    {
+        "id": 2,
+        "question": "What does the useEffect hook in React do?",
+        "options": ["State", "SideEffect", "Context", "HTTP"],
+        "correctanswer": "SideEffect"
+    },
+    {
+        "id": 3,
+        "question": "How do you import Bootstrap CSS in a React project?",
+        "options": ["import", "Css", "bootstrap", "MinCss"],
+        "correctanswer": "import"
+    }
+]
